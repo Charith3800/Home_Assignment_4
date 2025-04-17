@@ -4,7 +4,7 @@
 
 - **Name:** CHARITH REDDY PUTTA
 - **Student ID:** 700759727
-- **CRN:** 23847
+- **CRN:** 23850
 - **Course:** CS5720 Neural Networks and Deep Learning
 - **Semester:** Spring 2025
 
