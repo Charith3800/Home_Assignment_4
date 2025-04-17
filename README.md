@@ -40,7 +40,7 @@ You can either run it locally or open it in Colab:
 ## Video Submission
 
 The video demonstrates each question's code execution and explains the logic behind it.  
-**Video Link:** [Watch Here](https://www.loom.com/share/64b1c2cf081b4b9e9e0c7518007c45b7?sid=05a39d29-2519-4cf1-80f4-1b664d5e4ba0)
+**Video Link:** [Watch Here](https://drive.google.com/file/d/1ZIqExhl-jmp7TmKEtP9FtlWcy3Cy7ROM/view?usp=sharing)
 
 ---
 
